@@ -15,7 +15,7 @@ Se mostrarán las 6 fases del análisis de datos:
 - Compartir
 - Actuar
 
-En estos proyectos se utilizaran distintos programas como los son:
+En estos proyectos se utilizaran distintas tecnologías como:
 - SQL
 - R
 - Tableau
