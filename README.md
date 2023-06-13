@@ -1,7 +1,7 @@
 # Portafolio de datos
 
 
-<img src="Images/254519-P4LH8O-12.jpg" align="center" height="1680" width="1080">
+<img src="Images/254519-P4LH8O-12.jpg" align="center" height="1080" width="1080">
 
 ## Bienvenidos al repositorio de análisis de datos realizado por:
 - Edgar Alvarado Flores
