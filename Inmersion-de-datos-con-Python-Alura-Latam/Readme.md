@@ -1,7 +1,7 @@
 # Inmersion de datos con Python Alura Latam
 
 
-<img src="Images/wallpaper_imersao dev_JAN_1920x1080_V2Prancheta 1.jpg" align="center" height="540" width="1080">
+<img src="Data-portfolio/Images/wallpaper_imersao dev_JAN_1920x1080_V2Prancheta 1.jpg" align="center" height="540" width="1080">
 
 ## Bienvenidos al repositorio de la inmersión de datos con Python de Alura Latam realizado por:
 - Edgar Alvarado Flores
