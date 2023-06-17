@@ -8,7 +8,7 @@
 
 *For the moment the repository still a work in process*
 
-In it will be shown several data analysis projects realized on distinct courses and certifications that i have participated, on them it will be applied processes and tools from data analysis.
+In it will be shown several data analysis projects realized on distinct courses and certifications, on them it will be applied processes and tools from data analysis.
 It will show the 6 data analysis phases:
 - Ask
 - Prepare
