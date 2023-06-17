@@ -3,9 +3,8 @@
 
 <img src="../Images/wallpaper_imersao dev_JAN_1920x1080_V2Prancheta 1.jpg" align="center" height="540" width="1080">
 
-## Bienvenidos al repositorio de la inmersión de datos con Python de Alura Latam realizado por:
-- Edgar Alvarado Flores
+## Welcome to data inmersion with Python repo
 
-En él se mostrara un analisis de datos realizado durante las sesiones impartidas por el equipo de Alura Latam para dar una muestra de lo que puede hacerse con Python para analizar datos y aplicar data science, utilizando datos sobre inmuebles en la ciudad de Bogotá, Colombia, con ellos veremos un análisis exploratorio de los datos, se realizará un análisis estadístico, aplicando funciones del paquete `pandas` de `Python`, así como tambíen se realizaran modificaciones a los data frames y finalmente se aplicará un modelo predictivo de machine learning.
+In it will be shown the process realized on the Alura Latam team sesions to make an introduction to data analysis and data science with `python`, by showing several libraries such as `pandas`, `matplotlib`, `seaborn` and `sklearn`. It will show an exploratory analysis, statistics and data visualization, also it will apply a machine learning predictive model. All of this on real state data from Bogotá, Colombia.
 
-Quiero agradecer a Alura Latam por esta inmersión de datos ya que fue una gran oportunidad de aprendizaje y también la posibilidad de agregar este análisis a mis proyectos.
+I want to thank the Alura Latam team for this opportunity since it was a great chance to learn and the possibility to add the project to my portfolio.
