@@ -24,4 +24,7 @@ This projects will use distinct technologys such as:
 - Spread sheets
 - Python
 
+Content:
 
+Intro to data science
+ - [Alura Latam data inmersion ](Alura-Latam-data-inmersion-with-Python/) 
